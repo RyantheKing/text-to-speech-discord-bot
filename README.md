@@ -13,3 +13,6 @@ The bot allows each user to set a personal voice for when they send a message. 3
 
 #### Speed
 The bot will allow each use to set a unique talking speed for their text.
+
+#### Character limits
+The person running the bot can change the character limit for individual words and for the sentence as a whole on lines 52 and 58.
