@@ -8,16 +8,16 @@ Run `py tts.py`. Make sure to use your own bot token!
 
 ## Features
 #### Introductions
-The bot will announce "NAME says," before casting the tts message so that people know who is talking
+The bot will announce "NAME says," before casting the tts message so that people know who is talking\
 ![](https://i.ibb.co/ZBsvkfz/Screenshot-2022-04-12-120253.png)
 ![](https://i.ibb.co/4m9ffrV/Screenshot-2022-04-12-120420.png)
 
 #### Voices
-The bot allows each user to set a personal voice for when they send a message. 3 unique voice libraries are available. The user can also use the `,hearvoices` command to listen to what the different voices sound like.
+The bot allows each user to set a personal voice for when they send a message. 3 unique voice libraries are available. The user can also use the `,hearvoices` command to listen to what the different voices sound like.\
 ![](https://i.ibb.co/xXVfrYf/Screenshot-2022-04-12-120541.png)
 
 #### Speed
-The bot will allow each use to set a unique talking speed for their text.
+The bot will allow each use to set a unique talking speed for their text.\
 ![](https://i.ibb.co/r4wPMyw/Screenshot-2022-04-12-120632.png)
 
 #### Character limits
