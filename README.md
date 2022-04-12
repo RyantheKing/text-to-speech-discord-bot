@@ -1,6 +1,6 @@
 # text-to-speech-discord-bot
 A simple discord bot that sends text-to-speech audio through a voice channel, should you not be able to talk yourself.
-![](https://i.ibb.co/GC5X4NY/Screenshot-2022-04-12-120722.png)
+![](https://i.ibb.co/GC5X4NY/Screenshot-2022-04-12-120722.png)\
 (The bot reacts with a speaker icon to confirm it has read your message.)
 
 ## Installation 
